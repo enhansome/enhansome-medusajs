@@ -1,0 +1,438 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sentry",
+          "description": "A sentry integration. JavaScript Error and Performance Monitoring Resolve JavaScript errors with max efficiency, not max effort. Get actionable insights to resolve JavaScript performance issues with the ability to track, debug, and resolve JavaScript errors across platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-18T02:32:40Z",
+            "owner": "adrien2p",
+            "repo": "medusa-plugins",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentry UI",
+          "description": "An admin sentry dashboard. JavaScript Error and Performance Monitoring Resolve JavaScript errors with max efficiency, not max effort. Get actionable insights to resolve JavaScript performance issues with the ability to track, debug, and resolve JavaScript errors across platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-18T02:32:40Z",
+            "owner": "adrien2p",
+            "repo": "medusa-plugins",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": "A prometheus integration. swagger-stats traces REST API requests and responses in Node.js Microservices, and collects statistics per API Operation. swagger-stats detects API operations based on express routes. You may also provide Swagger (Open API) specification, and swagger-stats will match API requests with API Operations defined in swagger specification. The data can be served to kibana through ElasticSearch or can also be consumed by Grafana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-18T02:32:40Z",
+            "owner": "adrien2p",
+            "repo": "medusa-plugins",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jitsu",
+          "description": "Jitsu is a fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-29T17:25:26Z",
+            "owner": "joseantcordeiro",
+            "repo": "medusa-plugin-jitsu",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Analytics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Minio",
+          "description": "Minio is an open source distributed object storage server written in Go, designed for Private Cloud infrastructure providing S3 storage functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:36:37Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudflare R2",
+          "description": "Cloudflare R2 storage plugin for Medusa. This plugin also supports CSV exports and imports. R2 is S3-compatible object storage service by Cloudflare and has a 10GB/month forever-free tier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-22T10:02:10Z",
+            "owner": "yinkakun",
+            "repo": "medusa-file-r2",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local Storage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-06-27T18:44:40Z",
+            "owner": "Blechlawine",
+            "repo": "medusa-plugin-filestorage-local",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudflare Images",
+          "description": "Cloudflare Images provides a straightforward, end-to-end solution to cost-effectively build and maintain your image infrastructure. Store, resize, and optimize images at scale using one unified product.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-30T20:21:48Z",
+            "owner": "drewdecarme",
+            "repo": "medusa-file-cloudflare-images",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GCP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-12T11:03:10Z",
+            "owner": "kingwill101",
+            "repo": "medusa-file-gcp",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supabase",
+          "description": "Supabase Storage plugin for MedusaJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-28T22:41:10Z",
+            "owner": "yinkakun",
+            "repo": "medusa-file-supabase",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imgur",
+          "description": "Use free Imgur-Api as your fileservice to upload images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-13T01:10:46Z",
+            "owner": "samyarkd",
+            "repo": "medusa-imgur",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aliyun OSS",
+          "description": "Aliyun OSS file connector for Medusa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-24T03:32:20Z",
+            "owner": "wangjue666",
+            "repo": "medusa-file-ali",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "File storage and management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shopify",
+          "description": "This plugin will copy all of your products and collections from Shopify to Medusa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:36:37Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magento",
+          "description": "This plugin will copy all of your products and collections from Magento to Medusa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-12T11:23:17Z",
+            "owner": "shahednasser",
+            "repo": "medusa-source-magento",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prestashop",
+          "description": "This plugin imports Prestashop categories and products into Medusa. It creates categories and products that don't exist, and updates those that have been imported previously.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T18:14:56Z",
+            "owner": "juansoler",
+            "repo": "medusa-source-prestashop",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Loader"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manual",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:36:37Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adyen",
+          "description": "End-to-end payments, data, and financial management in one solution. Meet the financial technology platform that helps you realize your ambitions faster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:36:37Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subscriptions plugin",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Stripe subscriptions",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Payment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manual",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:36:37Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webshiper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:36:37Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shiprocket",
+          "description": "Shiprocket is a popular eCommerce logistics and shipping service provider in India. Fulfill your Medusa orders, swaps and returns using medusa-fulfillment-shiprocket",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-30T12:08:39Z",
+            "owner": "Hemann55",
+            "repo": "medusa-fulfillment-shiprocket",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Fullfilment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mailchimp",
+          "description": "Mailchimp is an all-in-one marketing platform that helps you manage and talk to your clients, customers, and other interested parties",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:36:37Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twilio",
+          "description": "Twilio powers personalized interactions and trusted global communications to connect you with customers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:36:37Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon SES",
+          "description": "Notifications plugin for Medusa ecommerce server that sends transactional emails via AWS SES (Simple Email Service).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T19:30:12Z",
+            "owner": "pevey",
+            "repo": "medusa-plugins",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Postmark",
+          "description": "Mail notifications powered by Postmark templates including PDF invoices that can be configured with json files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-10T00:16:29Z",
+            "owner": "Fullstak-nl",
+            "repo": "medusa-plugin-postmark",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node mailer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-10T20:37:06Z",
+            "owner": "Blechlawine",
+            "repo": "medusa-plugin-nodemailer",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailjet",
+          "description": "Use medusa-plugin-mailjet to send transactional and marketing emails to your customers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-01T12:53:03Z",
+            "owner": "Hemann55",
+            "repo": "medusa-plugin-mailjet",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seven",
+          "description": "SMS and text-to-speech notifications powered by Seven",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T21:35:57Z",
+            "owner": "seven-io",
+            "repo": "medusa",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Notification"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:17:57.660Z",
+    "original_repository": "adrien2p/awesome-medusajs",
+    "original_repository_sha": "0a87c6940cf4bfa873189777f94daa7312a1b58f",
+    "enhanced_repository": "enhansome/enhansome-medusajs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Projects using MedusaJS with stars"
+  }
+}
