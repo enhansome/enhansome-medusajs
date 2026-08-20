@@ -30,7 +30,7 @@
             "last_commit": "2026-08-11T19:13:22Z",
             "owner": "itswadesh",
             "repo": "svelte-commerce",
-            "stars": 1804
+            "stars": 1803
           }
         },
         {
@@ -252,10 +252,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:36Z",
+                "last_commit": "2026-08-20T09:16:26Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35908
+                "stars": 35917
               }
             },
             {
@@ -379,10 +379,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:36Z",
+                "last_commit": "2026-08-20T09:16:26Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35908
+                "stars": 35917
               }
             },
             {
@@ -431,10 +431,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:36Z",
+                "last_commit": "2026-08-20T09:16:26Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35908
+                "stars": 35917
               }
             },
             {
@@ -446,10 +446,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:36Z",
+                "last_commit": "2026-08-20T09:16:26Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35908
+                "stars": 35917
               }
             }
           ],
@@ -468,10 +468,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:36Z",
+                "last_commit": "2026-08-20T09:16:26Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35908
+                "stars": 35917
               }
             },
             {
@@ -483,10 +483,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:36Z",
+                "last_commit": "2026-08-20T09:16:26Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35908
+                "stars": 35917
               }
             },
             {
@@ -520,10 +520,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:36Z",
+                "last_commit": "2026-08-20T09:16:26Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35908
+                "stars": 35917
               }
             },
             {
@@ -535,10 +535,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:36Z",
+                "last_commit": "2026-08-20T09:16:26Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35908
+                "stars": 35917
               }
             },
             {
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:38:38.152Z",
+    "last_updated": "2026-08-20T09:44:34.142Z",
     "original_repository": "adrien2p/awesome-medusajs",
     "original_repository_id": 433537823,
     "original_repository_sha": "0a87c6940cf4bfa873189777f94daa7312a1b58f",
