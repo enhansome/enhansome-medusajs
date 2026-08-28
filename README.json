@@ -16,7 +16,8 @@
             "owner": "medusajs",
             "repo": "nextjs-starter-medusa",
             "stars": 2794
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-25T06:11:14Z",
             "owner": "itswadesh",
             "repo": "svelte-commerce",
-            "stars": 1806
-          }
+            "stars": 1807
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "adrien2p",
             "repo": "medusa-extender",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "adrien2p",
             "repo": "medusa-extender",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "shahednasser",
             "repo": "medusa-marketplace",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "medusajs",
             "repo": "gatsby-starter-medusa",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "medusajs",
             "repo": "medusa-express-nextjs",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "shahednasser",
             "repo": "medusa-marketplace-tutorial",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "adrien2p",
             "repo": "medusa-plugin-starter-ts",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "medusajs",
             "repo": "medusa-express-gatsby",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "avneesh0612",
             "repo": "next-medusa-tailwind-template",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:48:59.511Z"
         }
       ],
       "title": "Starters"
@@ -189,7 +200,8 @@
                 "owner": "adrien2p",
                 "repo": "medusa-extender",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -211,7 +223,8 @@
                 "owner": "adrien2p",
                 "repo": "medusa-plugins",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -233,7 +246,8 @@
                 "owner": "adrien2p",
                 "repo": "medusa-plugins",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -248,7 +262,8 @@
                 "owner": "adrien2p",
                 "repo": "medusa-plugins",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -263,7 +278,8 @@
                 "owner": "adrien2p",
                 "repo": "medusa-plugins",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -278,7 +294,8 @@
                 "owner": "joseantcordeiro",
                 "repo": "medusa-plugin-jitsu",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -296,11 +313,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -315,7 +333,8 @@
                 "owner": "yinkakun",
                 "repo": "medusa-file-r2",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -330,7 +349,8 @@
                 "owner": "Blechlawine",
                 "repo": "medusa-plugin-filestorage-local",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -345,7 +365,8 @@
                 "owner": "drewdecarme",
                 "repo": "medusa-file-cloudflare-images",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -360,7 +381,8 @@
                 "owner": "kingwill101",
                 "repo": "medusa-file-gcp",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -375,7 +397,8 @@
                 "owner": "yinkakun",
                 "repo": "medusa-file-supabase",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "samyarkd",
                 "repo": "medusa-imgur",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "wangjue666",
                 "repo": "medusa-file-ali",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -423,11 +448,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -442,7 +468,8 @@
                 "owner": "shahednasser",
                 "repo": "medusa-source-magento",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "juansoler",
                 "repo": "medusa-source-prestashop",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -475,11 +503,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -497,11 +526,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -519,11 +549,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -541,11 +572,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -556,11 +588,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -578,11 +611,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -593,11 +627,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -612,7 +647,8 @@
                 "owner": "Hemann55",
                 "repo": "medusa-fulfillment-shiprocket",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -630,11 +666,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -645,11 +682,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -664,7 +702,8 @@
                 "owner": "pevey",
                 "repo": "medusa-plugins",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -679,7 +718,8 @@
                 "owner": "Fullstak-nl",
                 "repo": "medusa-plugin-postmark",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -694,7 +734,8 @@
                 "owner": "Blechlawine",
                 "repo": "medusa-plugin-nodemailer",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -709,7 +750,8 @@
                 "owner": "Hemann55",
                 "repo": "medusa-plugin-mailjet",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             },
             {
               "node_type": "item",
@@ -724,7 +766,8 @@
                 "owner": "seven-io",
                 "repo": "medusa",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -742,11 +785,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:47:50Z",
+                "last_commit": "2026-08-28T16:31:12Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36030
-              }
+                "stars": 36045
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -768,7 +812,8 @@
                 "owner": "ikhvost",
                 "repo": "medusa-event-bus-aws",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -790,7 +835,8 @@
                 "owner": "MoscatelliMarco",
                 "repo": "medusa-plugin-blogger",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:48:59.511Z"
             }
           ],
           "description": null,
@@ -802,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:48:03.967Z",
+    "last_updated": "2026-08-28T20:48:59.511Z",
     "original_repository_info": {
       "archived": false,
       "id": 433537823,
