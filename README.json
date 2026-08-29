@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A performant frontend ecommerce starter template with Next.js",
+            "homepage": "https://next.medusajs.com/",
             "id": 380267876,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T12:19:05Z",
+            "open_issues": 0,
             "owner": "medusajs",
             "repo": "nextjs-starter-medusa",
-            "stars": 2794
+            "stars": 2794,
+            "topics": [
+              "cart",
+              "composable",
+              "composable-commerce",
+              "e-commerce",
+              "ecommerce",
+              "hacktoberfest",
+              "headless",
+              "javascript",
+              "medusa",
+              "medusajs",
+              "nextjs",
+              "nodejs",
+              "react",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -26,12 +47,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source headless storefront for Medusa, Shopify, Saleor, Vendure, Woocommerce, Litekart and more",
+            "homepage": "https://arialshop.com",
             "id": 213575283,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-08-25T06:11:14Z",
+            "open_issues": 2,
             "owner": "itswadesh",
             "repo": "svelte-commerce",
-            "stars": 1807
+            "stars": 1807,
+            "topics": [
+              "cart",
+              "ecommerce",
+              "faceted-search",
+              "filters",
+              "headless",
+              "medusajs",
+              "saleor-storefront",
+              "shopify",
+              "sveltekit",
+              "typescript",
+              "vendure",
+              "woocommerce"
+            ]
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -42,12 +81,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":syringe: Medusa on steroid, take your medusa project to the next level with some badass features :rocket:",
+            "homepage": "https://adrien2p.github.io/medusa-extender/",
             "id": 451061211,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-10T10:20:05Z",
+            "open_issues": 5,
             "owner": "adrien2p",
             "repo": "medusa-extender",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "architecture",
+              "cli",
+              "dynamic-module",
+              "e-commerce",
+              "ecommerce",
+              "extension",
+              "headless",
+              "javascript",
+              "medusa",
+              "medusa-plugin",
+              "medusa-plugins",
+              "medusajs",
+              "monitoring",
+              "multi-tenancy",
+              "nodejs",
+              "open-source",
+              "prometheus",
+              "typeorm",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -58,12 +122,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":syringe: Medusa on steroid, take your medusa project to the next level with some badass features :rocket:",
+            "homepage": "https://adrien2p.github.io/medusa-extender/",
             "id": 451061211,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-10T10:20:05Z",
+            "open_issues": 5,
             "owner": "adrien2p",
             "repo": "medusa-extender",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "architecture",
+              "cli",
+              "dynamic-module",
+              "e-commerce",
+              "ecommerce",
+              "extension",
+              "headless",
+              "javascript",
+              "medusa",
+              "medusa-plugin",
+              "medusa-plugins",
+              "medusajs",
+              "monitoring",
+              "multi-tenancy",
+              "nodejs",
+              "open-source",
+              "prometheus",
+              "typeorm",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -74,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a Marketplace with Medusa",
+            "homepage": null,
             "id": 467181695,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-04-20T06:16:18Z",
+            "open_issues": 15,
             "owner": "shahednasser",
             "repo": "medusa-marketplace",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -90,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A production-ready Gatsby starter for Medusa",
+            "homepage": null,
             "id": 437809507,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-06T15:01:18Z",
+            "open_issues": 9,
             "owner": "medusajs",
             "repo": "gatsby-starter-medusa",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -106,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One-page checkout flow",
+            "homepage": null,
             "id": 446081309,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-08-10T08:12:29Z",
+            "open_issues": 4,
             "owner": "medusajs",
             "repo": "medusa-express-nextjs",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -122,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Medusa Marketplace Tutorial",
+            "homepage": null,
             "id": 461961458,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-04-20T06:15:42Z",
+            "open_issues": 16,
             "owner": "shahednasser",
             "repo": "medusa-marketplace-tutorial",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -138,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin starter for medusa pre-configured and using typescript",
+            "homepage": null,
             "id": 444975833,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-02-10T12:44:36Z",
+            "open_issues": 0,
             "owner": "adrien2p",
             "repo": "medusa-plugin-starter-ts",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -154,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medusa One Page Checkout",
+            "homepage": null,
             "id": 419736465,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-01-09T14:28:27Z",
+            "open_issues": 0,
             "owner": "medusajs",
             "repo": "medusa-express-gatsby",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         },
@@ -170,12 +289,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is a TailwindCSS, Next.js, medusa starter template. Feel free to use it, fork it and star it 🥳🙌",
+            "homepage": "https://blog.avneesh.tech/setup-e-commerce-white-medusa",
             "id": 444725652,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-07T05:50:51Z",
+            "open_issues": 0,
             "owner": "avneesh0612",
             "repo": "next-medusa-tailwind-template",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:59.511Z"
         }
@@ -194,12 +318,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":syringe: Medusa on steroid, take your medusa project to the next level with some badass features :rocket:",
+                "homepage": "https://adrien2p.github.io/medusa-extender/",
                 "id": 451061211,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-10T10:20:05Z",
+                "open_issues": 5,
                 "owner": "adrien2p",
                 "repo": "medusa-extender",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "architecture",
+                  "cli",
+                  "dynamic-module",
+                  "e-commerce",
+                  "ecommerce",
+                  "extension",
+                  "headless",
+                  "javascript",
+                  "medusa",
+                  "medusa-plugin",
+                  "medusa-plugins",
+                  "medusajs",
+                  "monitoring",
+                  "multi-tenancy",
+                  "nodejs",
+                  "open-source",
+                  "prometheus",
+                  "typeorm",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -217,12 +366,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome plugins for medusa :rocket:",
+                "homepage": "https://medusa-plugins.vercel.app",
                 "id": 457906166,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-18T02:32:40Z",
+                "open_issues": 7,
                 "owner": "adrien2p",
                 "repo": "medusa-plugins",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "analytics",
+                  "authentication",
+                  "dashboard",
+                  "facebook-authentication",
+                  "google-authentication",
+                  "grafana",
+                  "javascipt",
+                  "javascript",
+                  "linkedin-authentication",
+                  "medusa-plugin",
+                  "medusa-plugins",
+                  "medusajs",
+                  "nodejs",
+                  "oauth2",
+                  "payments",
+                  "prometheus",
+                  "sentry-integration",
+                  "twitter-authentication",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -240,12 +414,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome plugins for medusa :rocket:",
+                "homepage": "https://medusa-plugins.vercel.app",
                 "id": 457906166,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-18T02:32:40Z",
+                "open_issues": 7,
                 "owner": "adrien2p",
                 "repo": "medusa-plugins",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "analytics",
+                  "authentication",
+                  "dashboard",
+                  "facebook-authentication",
+                  "google-authentication",
+                  "grafana",
+                  "javascipt",
+                  "javascript",
+                  "linkedin-authentication",
+                  "medusa-plugin",
+                  "medusa-plugins",
+                  "medusajs",
+                  "nodejs",
+                  "oauth2",
+                  "payments",
+                  "prometheus",
+                  "sentry-integration",
+                  "twitter-authentication",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -256,12 +455,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome plugins for medusa :rocket:",
+                "homepage": "https://medusa-plugins.vercel.app",
                 "id": 457906166,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-18T02:32:40Z",
+                "open_issues": 7,
                 "owner": "adrien2p",
                 "repo": "medusa-plugins",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "analytics",
+                  "authentication",
+                  "dashboard",
+                  "facebook-authentication",
+                  "google-authentication",
+                  "grafana",
+                  "javascipt",
+                  "javascript",
+                  "linkedin-authentication",
+                  "medusa-plugin",
+                  "medusa-plugins",
+                  "medusajs",
+                  "nodejs",
+                  "oauth2",
+                  "payments",
+                  "prometheus",
+                  "sentry-integration",
+                  "twitter-authentication",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -272,12 +496,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome plugins for medusa :rocket:",
+                "homepage": "https://medusa-plugins.vercel.app",
                 "id": 457906166,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-18T02:32:40Z",
+                "open_issues": 7,
                 "owner": "adrien2p",
                 "repo": "medusa-plugins",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "analytics",
+                  "authentication",
+                  "dashboard",
+                  "facebook-authentication",
+                  "google-authentication",
+                  "grafana",
+                  "javascipt",
+                  "javascript",
+                  "linkedin-authentication",
+                  "medusa-plugin",
+                  "medusa-plugins",
+                  "medusajs",
+                  "nodejs",
+                  "oauth2",
+                  "payments",
+                  "prometheus",
+                  "sentry-integration",
+                  "twitter-authentication",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -288,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Medusa commerce Jitsu data ingestion",
+                "homepage": null,
                 "id": 475538256,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-03-29T17:25:26Z",
+                "open_issues": 1,
                 "owner": "joseantcordeiro",
                 "repo": "medusa-plugin-jitsu",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -311,12 +565,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -327,12 +598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 591322567,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-09-22T10:02:10Z",
+                "open_issues": 5,
                 "owner": "yinkakun",
                 "repo": "medusa-file-r2",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -343,12 +619,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 433451816,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-06-27T18:44:40Z",
+                "open_issues": 2,
                 "owner": "Blechlawine",
                 "repo": "medusa-plugin-filestorage-local",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -359,12 +640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudflare images file connector for Medusa Commerce applications",
+                "homepage": null,
                 "id": 449334209,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-06-30T20:21:48Z",
+                "open_issues": 0,
                 "owner": "drewdecarme",
                 "repo": "medusa-file-cloudflare-images",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -375,12 +661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google cloud storage plugin for medusajs",
+                "homepage": null,
                 "id": 458387482,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-11-12T11:03:10Z",
+                "open_issues": 0,
                 "owner": "kingwill101",
                 "repo": "medusa-file-gcp",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -391,12 +682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 580898369,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-28T22:41:10Z",
+                "open_issues": 0,
                 "owner": "yinkakun",
                 "repo": "medusa-file-supabase",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -407,12 +703,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Imgur as a filservice for medusajs",
+                "homepage": "https://www.npmjs.com/package/medusa-imgur",
                 "id": 627178402,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-04-13T01:10:46Z",
+                "open_issues": 0,
                 "owner": "samyarkd",
                 "repo": "medusa-imgur",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "imgur",
+                  "medusa",
+                  "medusa-plugin",
+                  "medusajs"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -423,12 +729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aliyun OSS file connector for Medusa",
+                "homepage": "https://www.npmjs.com/package/medusa-file-ali",
                 "id": 747508777,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-04-24T03:32:20Z",
+                "open_issues": 0,
                 "owner": "wangjue666",
                 "repo": "medusa-file-ali",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -446,12 +757,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -462,12 +790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Medusa plugin that imports data from Magento",
+                "homepage": null,
                 "id": 557771028,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-07-12T11:23:17Z",
+                "open_issues": 2,
                 "owner": "shahednasser",
                 "repo": "medusa-source-magento",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -478,12 +811,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Medusa plugin that imports data from Prestashop",
+                "homepage": null,
                 "id": 573548183,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-04T18:14:56Z",
+                "open_issues": 0,
                 "owner": "juansoler",
                 "repo": "medusa-source-prestashop",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -501,12 +839,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -524,12 +879,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -547,12 +919,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -570,12 +959,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -586,12 +992,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -609,12 +1032,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -625,12 +1065,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -641,12 +1098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shiprocket fulfillment plugin for MedusaJS",
+                "homepage": null,
                 "id": 624144299,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-04-30T12:08:39Z",
+                "open_issues": 4,
                 "owner": "Hemann55",
                 "repo": "medusa-fulfillment-shiprocket",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -664,12 +1126,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -680,12 +1159,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -696,12 +1192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A workspace for developing Medusa plugins and the SvelteKit storefront SDK",
+                "homepage": "https://pevey.com",
                 "id": 596607204,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-07T19:30:12Z",
+                "open_issues": 1,
                 "owner": "pevey",
                 "repo": "medusa-plugins",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -712,12 +1213,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Postmark notification plugin for MedusaJS",
+                "homepage": "https://fullstak-nl.github.io/medusa-plugin-postmark/",
                 "id": 591504400,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-10T00:16:29Z",
+                "open_issues": 4,
                 "owner": "Fullstak-nl",
                 "repo": "medusa-plugin-postmark",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "medusa-plugin",
+                  "medusajs",
+                  "plugin",
+                  "postmark"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -728,12 +1239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 435452516,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-10T20:37:06Z",
+                "open_issues": 3,
                 "owner": "Blechlawine",
                 "repo": "medusa-plugin-nodemailer",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -744,12 +1260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mailjet Plugin for Medusa to send transactional emails.",
+                "homepage": null,
                 "id": 617629803,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-01T12:53:03Z",
+                "open_issues": 3,
                 "owner": "Hemann55",
                 "repo": "medusa-plugin-mailjet",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             },
@@ -760,12 +1281,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Medusa plugin for sending SMS and making text-to-speech calls",
+                "homepage": "https://www.seven.io/en/solutions/integrations/medusa/",
                 "id": 428633060,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T21:35:57Z",
+                "open_issues": 6,
                 "owner": "seven-io",
                 "repo": "medusa",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "e-commerce",
+                  "medusajs",
+                  "seven-plugin",
+                  "sms"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -783,12 +1314,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36045
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -806,12 +1354,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Medusa v2.x module for seamless integration with AWS EventBridge, enabling real-time event handling in headless e-commerce applications",
+                "homepage": null,
                 "id": 747405155,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-01T20:59:08Z",
+                "open_issues": 0,
                 "owner": "ikhvost",
                 "repo": "medusa-event-bus-aws",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "aws",
+                  "ecommerce",
+                  "eventbridge",
+                  "headless-ecommerce",
+                  "medusa",
+                  "medusa-module",
+                  "medusa-plugin",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -829,12 +1391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A blog integration for your MedusaJS admin page, enabling you to create and manage blog articles directly from the admin interface. This plugin extends the capabilities of MedusaJS, a powerful headless commerce platform, by adding a dedicated blogging feature.",
+                "homepage": null,
                 "id": 810435997,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-18T22:16:02Z",
+                "open_issues": 2,
                 "owner": "MoscatelliMarco",
                 "repo": "medusa-plugin-blogger",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:59.511Z"
             }
@@ -848,15 +1415,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:48:59.511Z",
+    "last_updated": "2026-08-29T04:41:18.300Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources related to MedusaJS 😎",
+      "homepage": null,
       "id": 433537823,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-12-09T09:02:24Z",
+      "open_issues": 3,
       "owner": "adrien2p",
       "repo": "awesome-medusajs",
-      "stars": 626
+      "stars": 626,
+      "topics": [
+        "authentication",
+        "awesome",
+        "awesome-list",
+        "e-commerce",
+        "ecommerce",
+        "ecommerce-api",
+        "gatsby",
+        "headless",
+        "headless-cms",
+        "medusa",
+        "medusa-js",
+        "medusa-plugin",
+        "medusa-plugins",
+        "medusajs",
+        "nextjs",
+        "nodejs",
+        "oauth2",
+        "plugins",
+        "react",
+        "starter"
+      ]
     },
     "original_repository_sha": "0a87c6940cf4bfa873189777f94daa7312a1b58f",
     "enhanced_repository": "enhansome/enhansome-medusajs",
