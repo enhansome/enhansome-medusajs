@@ -40,7 +40,7 @@
 * Official Resources
   * [Website](https://www.medusajs.com/)
   * [Official Guide](https://docs.medusajs.com/)
-  * [GitHub Repo](https://github.com/medusajs/medusa) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28
+  * [GitHub Repo](https://github.com/medusajs/medusa) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28
 
 * Demo
   * [Admin panel](https://demo.medusa-commerce.com/) - Maqnage your anything related to your store
@@ -128,7 +128,7 @@ A few of the projects we are allowed to share are Tekla, Dubray, Palmes and Brya
 
 ### File storage and management
 
-* [Minio](https://github.com/medusajs/medusa/tree/master/packages/medusa-file-minio) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
+* [Minio](https://github.com/medusajs/medusa/tree/master/packages/medusa-file-minio) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
   Minio is an open source distributed object storage server written in Go, designed for Private Cloud infrastructure providing S3 storage functionality.
 
 * [Cloudflare R2](https://github.com/yinkakun/medusa-file-r2) ⭐ 15 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-22 ![source](https://img.shields.io/static/v1?label=community\&message= \&color=blue\&style=flat-square) ![stars](https://img.shields.io/github/stars/yinkakun/medusa-file-r2)\
@@ -159,7 +159,7 @@ A few of the projects we are allowed to share are Tekla, Dubray, Palmes and Brya
 
 ### Loader
 
-* [Shopify](https://github.com/medusajs/medusa/tree/master/packages/medusa-source-shopify) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
+* [Shopify](https://github.com/medusajs/medusa/tree/master/packages/medusa-source-shopify) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
   This plugin will copy all of your products and collections from Shopify to Medusa.
 
 * [Magento](https://github.com/shahednasser/medusa-source-magento) ⭐ 12 | 🐛 2 | 🌐 TypeScript | 📅 2023-07-12 ![source](https://img.shields.io/static/v1?label=community\&message= \&color=blue\&style=flat-square) ![stars](https://img.shields.io/github/stars/shahednasser/medusa-source-magento?color=blue)\
@@ -170,22 +170,22 @@ A few of the projects we are allowed to share are Tekla, Dubray, Palmes and Brya
 
 ### Invoice
 
-* [Economic](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-economic) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
+* [Economic](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-economic) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
 
 ### Discount
 
-* [Generator](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-discount-generator) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
+* [Generator](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-discount-generator) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
 
 ### Inventory
 
-* [Brightpearl](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-brightpearl) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
+* [Brightpearl](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-brightpearl) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
   Sends orders to Brightpearl, listens for stock movements, handles returns.
 
 ### Payment
 
-* [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-manual) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
+* [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-manual) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
 
-* [Adyen](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-adyen) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
+* [Adyen](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-adyen) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
   End-to-end payments, data, and financial management in one solution. Meet the financial technology platform that helps you realize your ambitions faster.
 
 * [Stripe](https://docs.medusajs.com/add-plugins/stripe) ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
@@ -205,19 +205,19 @@ A few of the projects we are allowed to share are Tekla, Dubray, Palmes and Brya
 
 ### Fullfilment
 
-* [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-manual) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
+* [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-manual) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
 
-* [Webshiper](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-webshipper) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
+* [Webshiper](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-webshipper) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
 
 * [Shiprocket](https://github.com/Hemann55/medusa-fulfillment-shiprocket) ⭐ 8 | 🐛 4 | 🌐 JavaScript | 📅 2024-04-30 ![source](https://img.shields.io/static/v1?label=community\&message= \&color=blue\&style=flat-square) ![stars](https://img.shields.io/github/stars/Hemann55/medusa-fulfillment-shiprocket)\
   Shiprocket is a popular eCommerce logistics and shipping service provider in India. Fulfill your Medusa orders, swaps and returns using medusa-fulfillment-shiprocket
 
 ### Notification
 
-* [Mailchimp](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-mailchimp) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
+* [Mailchimp](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-mailchimp) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
   Mailchimp is an all-in-one marketing platform that helps you manage and talk to your clients, customers, and other interested parties
 
-* [Twilio](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-twilio-sms) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
+* [Twilio](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-twilio-sms) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)\
   Twilio powers personalized interactions and trusted global communications to connect you with customers.
 
 * [Amazon SES](https://github.com/pevey/medusa-plugin-ses#readme) ⭐ 36 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-07 ![source](https://img.shields.io/static/v1?label=community\&message= \&color=blue\&style=flat-square) ![stars](https://img.shields.io/github/stars/pevey/medusa-plugin-ses#readme)\
@@ -239,7 +239,7 @@ A few of the projects we are allowed to share are Tekla, Dubray, Palmes and Brya
 
 ### Customer content
 
-* [Wish list](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-wishlist) ⭐ 36,046 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
+* [Wish list](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-wishlist) ⭐ 36,053 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-28 ![source](https://img.shields.io/static/v1?label=official\&message= \&color=green\&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
 
 ### Bot
 
