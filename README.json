@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Nextjs starter",
-          "description": null,
+          "description": "medusajs/nextjs-starter-medusa",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "medusajs",
             "repo": "nextjs-starter-medusa",
-            "stars": 2795,
+            "stars": 2794,
             "topics": [
               "cart",
               "composable",
@@ -43,7 +43,7 @@
         {
           "node_type": "item",
           "title": "Medusa storefront",
-          "description": null,
+          "description": "itswadesh/svelte-commerce",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -83,7 +83,7 @@
         {
           "node_type": "item",
           "title": "Medusa-extender server",
-          "description": null,
+          "description": "adrien2p/medusa-extender",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -124,7 +124,7 @@
         {
           "node_type": "item",
           "title": "Medusa-extender Shareable module",
-          "description": null,
+          "description": "adrien2p/medusa-extender",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -165,7 +165,7 @@
         {
           "node_type": "item",
           "title": "Medusa marketplace plugin tutorial",
-          "description": null,
+          "description": "shahednasser/medusa-marketplace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "Gatsby starter",
-          "description": null,
+          "description": "medusajs/gatsby-starter-medusa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "Nextjs Medusa express",
-          "description": null,
+          "description": "medusajs/medusa-express-nextjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -228,7 +228,7 @@
         {
           "node_type": "item",
           "title": "Medusa marketplace tutorial",
-          "description": null,
+          "description": "shahednasser/medusa-marketplace-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -249,7 +249,7 @@
         {
           "node_type": "item",
           "title": "Plugin starter (Typescript)",
-          "description": null,
+          "description": "adrien2p/medusa-plugin-starter-ts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "Gatsby Medusa express",
-          "description": null,
+          "description": "medusajs/medusa-express-gatsby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +291,7 @@
         {
           "node_type": "item",
           "title": "Next.js Medusa Tailwind starter",
-          "description": null,
+          "description": "avneesh0612/next-medusa-tailwind-template",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -576,11 +576,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -621,7 +621,7 @@
             {
               "node_type": "item",
               "title": "Local Storage",
-              "description": null,
+              "description": "Blechlawine/medusa-plugin-filestorage-local",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -663,7 +663,7 @@
             {
               "node_type": "item",
               "title": "GCP",
-              "description": null,
+              "description": "kingwill101/medusa-file-gcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -768,11 +768,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -841,7 +841,7 @@
             {
               "node_type": "item",
               "title": "Economic",
-              "description": null,
+              "description": "medusajs/medusa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -850,11 +850,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -881,7 +881,7 @@
             {
               "node_type": "item",
               "title": "Generator",
-              "description": null,
+              "description": "medusajs/medusa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -890,11 +890,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -930,11 +930,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -961,7 +961,7 @@
             {
               "node_type": "item",
               "title": "Manual",
-              "description": null,
+              "description": "medusajs/medusa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -970,11 +970,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1003,11 +1003,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1034,7 +1034,7 @@
             {
               "node_type": "item",
               "title": "Manual",
-              "description": null,
+              "description": "medusajs/medusa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1043,11 +1043,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1067,7 +1067,7 @@
             {
               "node_type": "item",
               "title": "Webshiper",
-              "description": null,
+              "description": "medusajs/medusa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1076,11 +1076,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1137,11 +1137,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1170,11 +1170,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1241,7 +1241,7 @@
             {
               "node_type": "item",
               "title": "node mailer",
-              "description": null,
+              "description": "Blechlawine/medusa-plugin-nodemailer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1316,7 +1316,7 @@
             {
               "node_type": "item",
               "title": "Wish list",
-              "description": null,
+              "description": "medusajs/medusa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1325,11 +1325,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:49:01Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T15:50:46Z",
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36547,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:42:50.438Z",
+    "last_updated": "2026-10-03T04:58:20.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to MedusaJS 😎",
