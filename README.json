@@ -52,11 +52,11 @@
             "id": 213575283,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-16T11:49:08Z",
+            "last_commit": "2026-10-18T05:53:31Z",
             "open_issues": 0,
             "owner": "itswadesh",
             "repo": "svelte-commerce",
-            "stars": 1820,
+            "stars": 1821,
             "topics": [
               "cart",
               "ecommerce",
@@ -580,7 +580,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -772,7 +772,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -854,7 +854,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -894,7 +894,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -934,7 +934,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -974,7 +974,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1007,7 +1007,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1047,7 +1047,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1080,7 +1080,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1141,7 +1141,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1174,7 +1174,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1329,7 +1329,7 @@
                 "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36778,
+                "stars": 36787,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:54:15.489Z",
+    "last_updated": "2026-10-18T13:10:11.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to MedusaJS 😎",
