@@ -52,7 +52,7 @@
             "id": 213575283,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-11-21T14:27:01Z",
+            "last_commit": "2026-11-22T16:18:50Z",
             "open_issues": 0,
             "owner": "itswadesh",
             "repo": "svelte-commerce",
@@ -580,7 +580,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -772,7 +772,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -854,7 +854,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -894,7 +894,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -934,7 +934,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -974,7 +974,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1007,7 +1007,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1047,7 +1047,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1080,7 +1080,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1141,7 +1141,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1174,7 +1174,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1329,7 +1329,7 @@
                 "open_issues": 107,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 37352,
+                "stars": 37369,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:43:29.062Z",
+    "last_updated": "2026-11-22T17:03:02.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to MedusaJS 😎",
@@ -1430,7 +1430,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-12-09T09:02:24Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "adrien2p",
       "repo": "awesome-medusajs",
       "stars": 638,
